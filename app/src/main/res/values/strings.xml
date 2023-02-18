@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jaziri_ilies_tpNote</string>
+    <string name="statlibres">Stations vélo:</string>
+    <string name="mainButton">Afficher toutes les stations</string>
+    <string name="title_activity_maps">Libre service vélos</string>
+    <string name="MAPS_API_KEY">AIzaSyDdHTdJtt3nJdMhvGLvEJzaOfFEc_Zi-c0</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
